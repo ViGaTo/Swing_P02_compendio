@@ -1,0 +1,5 @@
+He usado el componente Timer (es un componente de Java Swing, como se puede ver en el paquete en el codigo "import javax.swing.Timer;"),
+este componente se encarga de hacer eventos despues de un respectivo tiempo, en mi caso lo he usado para intentar hacer un proceso de carga,
+esto lo he hecho porque me sirve de cara a usabilidad y porque es interesante para este tipo de aplicaciones, en fin decir tambien que no he
+podido aplicar un ToolTipText debido a que es un componente que no se puede seleccionar en el codigo, por lo cual lo he puesto en un mensaje previo
+antes de que se ejecute este Timer.
